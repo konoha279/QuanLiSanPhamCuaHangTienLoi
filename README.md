@@ -4,4 +4,4 @@ Yêu cầu:
 + Phải có SQL Server.
 + Kết nối được SQL Server đến với Netbean vì đồ án này sử dụng Netbean để code.
 
-Chương trình sẽ tự động tạo cơ sở dữ liệu khi chạy lần đầu. Bạn đọc có thể khám phá thêm
+Chương trình sẽ tự động tạo cơ sở dữ liệu khi chạy lần đầu. Bạn đọc có thể khám phá thêm.
